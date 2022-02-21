@@ -1,16 +1,21 @@
-### Hi there 👋
+### Fancy seeing you here!
 
-<!--
-**dschibster/dschibster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dennis, 29, currently working as Lead Solution Architect for mindsquare.
 
-Here are some ideas to get you started:
+* 📜 Certified Dev Lifecycle & Deployment Architect
+* 📜 Certified Application Architect
+* 📜 Certified Scrum.org Scrum Master, iSAQB Software Architect, PRINCE2-F Project Manager
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 👨🏻‍💻 I'm all about Apex and how I can trick Salesforce into doing what I want it to do
+* Flow is pretty okay, too...
+
+Other likes:
+
+* 🎮 Vidya games, basically everything from SNES up to Modern Day
+* ♟️ Board Games and TCGs - Currently a lot into Flesh and Blood
+* 🎲 Tabletop Gaming - Mostly Dungeons and Dragons currently
+* 🕺🏻 Dancing - Mostly Swing / Lindy Hop!
+
+I'm hanging out on GitHub to find interesting repos to incorporate into potential projects, and to sharpen the saw with frameworks and tools that I see myself, my customers, and other Salesforce Admins and Devs using in their daily lives.
+
+I'm always up for a chat regarding code style, development in general, and implementation ideas!
