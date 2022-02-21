@@ -5,7 +5,6 @@ I'm Dennis, 29, currently working as Lead Solution Architect for mindsquare.
 * 📜 Certified Dev Lifecycle & Deployment Architect
 * 📜 Certified Application Architect
 * 📜 Certified Scrum.org Scrum Master, iSAQB Software Architect, PRINCE2-F Project Manager
-
 * 👨🏻‍💻 I'm all about Apex and how I can trick Salesforce into doing what I want it to do
 * Flow is pretty okay, too...
 
