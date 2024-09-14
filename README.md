@@ -13,7 +13,7 @@ Other likes:
 * 🎮 Vidya games, basically everything from SNES up to Modern Day
 * ♟️ Board Games and TCGs - Currently a lot into Flesh and Blood
 * 🎲 Tabletop Gaming - Mostly Dungeons and Dragons currently
-* 🕺🏻 Dancing - Mostly Swing / Lindy Hop!
+* 🕺🏻 Dancing - Mostly Blues and Lindy Hop!
 
 I'm hanging out on GitHub to find interesting repos to incorporate into potential projects, and to sharpen the saw with frameworks and tools that I see myself, my customers, and other Salesforce Admins and Devs using in their daily lives.
 
